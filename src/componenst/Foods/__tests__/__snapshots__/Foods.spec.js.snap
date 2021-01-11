@@ -1,0 +1,114 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Foods component should match snapshot 1`] = `
+<Fragment>
+  <View
+    key="1"
+    style={
+      Object {
+        "flexBasis": "49%",
+      }
+    }
+  >
+    <ForwardRef
+      onPress={[Function]}
+    >
+      <Image
+        source={
+          Object {
+            "uri": "https://cdn.viajala.com/img/blog/5-platos-tipicos-peru/ceviche-peruano.jpg",
+          }
+        }
+        style={
+          Object {
+            "height": 200,
+            "marginVertical": 5,
+            "width": "100%",
+          }
+        }
+      />
+    </ForwardRef>
+  </View>
+  <View
+    key="2"
+    style={
+      Object {
+        "flexBasis": "49%",
+      }
+    }
+  >
+    <ForwardRef
+      onPress={[Function]}
+    >
+      <Image
+        source={
+          Object {
+            "uri": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB15poFh.img?h=1080&w=1920&m=6&q=60&o=t&l=f",
+          }
+        }
+        style={
+          Object {
+            "height": 200,
+            "marginVertical": 5,
+            "width": "100%",
+          }
+        }
+      />
+    </ForwardRef>
+  </View>
+  <View
+    key="3"
+    style={
+      Object {
+        "flexBasis": "49%",
+      }
+    }
+  >
+    <ForwardRef
+      onPress={[Function]}
+    >
+      <Image
+        source={
+          Object {
+            "uri": "https://i.pinimg.com/originals/9d/f7/59/9df759ad0e787a6639f75ec22a113c92.jpg",
+          }
+        }
+        style={
+          Object {
+            "height": 200,
+            "marginVertical": 5,
+            "width": "100%",
+          }
+        }
+      />
+    </ForwardRef>
+  </View>
+  <View
+    key="4"
+    style={
+      Object {
+        "flexBasis": "49%",
+      }
+    }
+  >
+    <ForwardRef
+      onPress={[Function]}
+    >
+      <Image
+        source={
+          Object {
+            "uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWyXQ7fOeIoH_jUQBsVpv6pmzws6ynV6WDEg&usqp=CAU",
+          }
+        }
+        style={
+          Object {
+            "height": 200,
+            "marginVertical": 5,
+            "width": "100%",
+          }
+        }
+      />
+    </ForwardRef>
+  </View>
+</Fragment>
+`;

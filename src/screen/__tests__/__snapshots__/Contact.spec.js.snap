@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contact screeen should match snapshot 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View>
+    <Image
+      source={
+        Object {
+          "uri": "https://pbs.twimg.com/profile_images/794753207306166272/TAEMQXGa_400x400.jpg",
+        }
+      }
+      style={
+        Object {
+          "height": 300,
+          "width": "100%",
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "marginHorizontal": 20,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "textAlign": "center",
+        }
+      }
+    >
+      Numero de contacto: 1125482
+    </Text>
+    <Text
+      style={
+        Object {
+          "textAlign": "center",
+        }
+      }
+    >
+      Correo: agencia@gmail.com
+    </Text>
+    <Text
+      style={
+        Object {
+          "textAlign": "center",
+        }
+      }
+    >
+      Dirección: calle 158 cercado de Lima
+    </Text>
+  </View>
+</View>
+`;

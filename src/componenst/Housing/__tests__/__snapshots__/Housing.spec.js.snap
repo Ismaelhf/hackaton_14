@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Housing component should match snapshot 1`] = `
+<Fragment>
+  <ForwardRef
+    key="1"
+    onPress={[Function]}
+  >
+    <View>
+      <Image
+        source={
+          Object {
+            "uri": "https://cde.3.elcomercio.pe/ima/0/1/7/2/7/1727988.jpg",
+          }
+        }
+        style={
+          Object {
+            "height": 200,
+            "marginVertical": 5,
+            "width": "100%",
+          }
+        }
+      />
+    </View>
+  </ForwardRef>
+  <ForwardRef
+    key="2"
+    onPress={[Function]}
+  >
+    <View>
+      <Image
+        source={
+          Object {
+            "uri": "https://elcomercio.pe/resizer/Ioy5PRa28UDtkHbulEPQGkZo8Xk=/980x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/2DJTINJ2QZF4HDZ6PUH2CMAZPA.jpg",
+          }
+        }
+        style={
+          Object {
+            "height": 200,
+            "marginVertical": 5,
+            "width": "100%",
+          }
+        }
+      />
+    </View>
+  </ForwardRef>
+  <ForwardRef
+    key="3"
+    onPress={[Function]}
+  >
+    <View>
+      <Image
+        source={
+          Object {
+            "uri": "https://turismo.org.pe/wp-content/uploads/2018/12/lima-peru.jpg",
+          }
+        }
+        style={
+          Object {
+            "height": 200,
+            "marginVertical": 5,
+            "width": "100%",
+          }
+        }
+      />
+    </View>
+  </ForwardRef>
+</Fragment>
+`;

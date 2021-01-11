@@ -1,0 +1,126 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tourism component should match snapshot 1`] = `
+<Fragment>
+  <ForwardRef
+    key="1"
+    onPress={[Function]}
+  >
+    <View>
+      <Text>
+        Machu pichu
+      </Text>
+      <Image
+        source={
+          Object {
+            "uri": "https://cdn.getyourguide.com/img/location/5c95efd23efe6.jpeg/148.jpg",
+          }
+        }
+        style={
+          Object {
+            "height": 300,
+            "marginRight": 10,
+            "width": 250,
+          }
+        }
+      />
+    </View>
+  </ForwardRef>
+  <ForwardRef
+    key="2"
+    onPress={[Function]}
+  >
+    <View>
+      <Text>
+        Huaraz
+      </Text>
+      <Image
+        source={
+          Object {
+            "uri": "https://www.peruhop.com/wp-content/uploads/cosas-por-hacer-en-peru-andes-huaraz.jpg",
+          }
+        }
+        style={
+          Object {
+            "height": 300,
+            "marginRight": 10,
+            "width": 250,
+          }
+        }
+      />
+    </View>
+  </ForwardRef>
+  <ForwardRef
+    key="3"
+    onPress={[Function]}
+  >
+    <View>
+      <Text>
+        Ica
+      </Text>
+      <Image
+        source={
+          Object {
+            "uri": "https://www.turiweb.pe/wp-content/uploads/2020/06/huacachina-230620.jpg",
+          }
+        }
+        style={
+          Object {
+            "height": 300,
+            "marginRight": 10,
+            "width": 250,
+          }
+        }
+      />
+    </View>
+  </ForwardRef>
+  <ForwardRef
+    key="4"
+    onPress={[Function]}
+  >
+    <View>
+      <Text>
+        7 colores
+      </Text>
+      <Image
+        source={
+          Object {
+            "uri": "https://www.findlocaltrips.com/Site/ViewSWImage?ImageFileItemId=3996&MaxWidth=350&MaxHeight=275&FixedWidthHeight=True",
+          }
+        }
+        style={
+          Object {
+            "height": 300,
+            "marginRight": 10,
+            "width": 250,
+          }
+        }
+      />
+    </View>
+  </ForwardRef>
+  <ForwardRef
+    key="5"
+    onPress={[Function]}
+  >
+    <View>
+      <Text>
+        7 colores
+      </Text>
+      <Image
+        source={
+          Object {
+            "uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTx-QWMjW5P6B0GuvNOsDzAD5ZPMUU_CN_Pw&usqp=CAU",
+          }
+        }
+        style={
+          Object {
+            "height": 300,
+            "marginRight": 10,
+            "width": 250,
+          }
+        }
+      />
+    </View>
+  </ForwardRef>
+</Fragment>
+`;
